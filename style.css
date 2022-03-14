@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    text-align: left;
+}
+/* header */
+.logo{ 
+    background-image: url("img/pattern.png");
+    background-repeat: repeat;
+    height: 120px;
+    background-color: rgb(84, 84, 253);
+}
+
+#booleaners{
+    width: 200px;
+    margin-top: 50px;
+
+
+}
+.info{ 
+    font-size: 18px;
+    width: 200px;
+    color: rgb(146, 146, 146);
+    
+}
+
+#autore{ 
+    color: rgb(10, 123, 252);
+}
+/* fine header */
+/* main */
