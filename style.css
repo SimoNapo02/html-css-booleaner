@@ -2,7 +2,7 @@ body{
     background-color: white;
     text-align: left;
 }
-/* header */
+/* logo */
 .logo{ 
     background-image: url("img/pattern.png");
     background-repeat: repeat;
@@ -16,6 +16,7 @@ body{
 
 
 }
+/* autori */
 .info{ 
     font-size: 18px;
     width: 200px;
@@ -26,5 +27,12 @@ body{
 #autore{ 
     color: rgb(10, 123, 252);
 }
+/* foto tim */
+.photo{
+    width: 400px;
+    font-size: 13px;
+}
+
+
 /* fine header */
 /* main */
