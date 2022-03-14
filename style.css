@@ -1,6 +1,7 @@
 body{
     background-color: white;
     text-align: left;
+    margin-right: 30%;
 }
 /* logo */
 .logo{ 
@@ -36,3 +37,8 @@ body{
 
 /* fine header */
 /* main */
+
+p{
+    width: 1000px;
+}
+
