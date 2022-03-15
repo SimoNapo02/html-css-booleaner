@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+    text-align: left;
+    
+}
+/* logo */
+
+.logo{ 
+     background-image: url("../img/pattern.png");
+     background-repeat: repeat;
+     height: 100px;
+     background-color: rgb(84, 84, 253);
+}
+
+#booleaners{
+    width: 200px;
+    margin-top: 40px;
+
+
+}
+/* autori */
+.info{ 
+    font-size: 18px;
+    color: rgb(146, 146, 146);
+    
+}
+
+#autore{ 
+    color: rgb(10, 123, 252);
+}
+
+h1{ 
+    font-size: 40px;
+}
+/* foto tim */
+.photo{
+    width: 400px;
+    font-size: 13px;
+}
+
+
+/* fine header */
+/* main */
+
+p{
+    width: 1000px;
+}
+
+/* tabella */
+table{
+    border-collapse: collapse;
+    font-size: small;
+    width: 1000px;
+}
+
+thead{
+    background-color: #4ea0ff;
+    color: white;
+    text-align: left;
+}
+
+.colonna1{
+    width: 25%;
+}
+
+.colonna2{
+    width: 25%;
+}
+
+.colonna3{
+    width: 50%;
+}
+
+.riga-blu{
+    background-color: #b1e5f2;
+}
